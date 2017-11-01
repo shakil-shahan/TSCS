@@ -14,6 +14,7 @@ Installation process is so easy, you can easily clone the application from git.
 > 4. Change to working branch `git checkout <branch_name>`
 > 5. Open the project from local storage into your favourite IDE or Text Editor.
 >>   - I prefer to use [VS CODE](https://code.visualstudio.com/).
+> 6. To know git commands click [here](https://www.siteground.co.uk/tutorials/git/commands.htm).
 
 ## Developer must have knowledge about
 
