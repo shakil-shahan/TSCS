@@ -6,8 +6,8 @@ The proposed system architecture is based on communication technology. The syste
 
 Installation process is so easy, you can easily clone the application from git.
 
-> 1. Enter into a drive and open **_git bash_** there OR open **_git bash_** and change the drive/directory using _command line_
->>   - To change drive `D:` OR `E:` OR `F:`
+> 1. Enter your server localhost folder `exp: 'C:\xampp\htdocs'` and open **_git bash_** there OR open **_git bash_** and change the directory to server localhost folder from treminal using _command line_
+>>   - To change drive `C:`
 >>   - To change directory `cd <directory_name>` 
 > 2. Clone from git `git clone https://github.com/MdShakilMahmud/TSCS.git`
 > 3. Open the project directory `cd TSCS`
